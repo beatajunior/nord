@@ -1,0 +1,8 @@
+vm/Functions/WebUI.class
+vm/TestCases/buyWithoutChangeTest.class
+vm/TestCases/insertDifferentCoinsTest.class
+vm/TestCases/returnMoneyTest.class
+vm/TestCases/buyTwoItemsTest.class
+vm/PageObjects/Selectors.class
+vm/TestCases/checkDescriptionTest.class
+vm/TestCases/buyTwixTest.class
